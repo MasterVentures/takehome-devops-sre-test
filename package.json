@@ -13,7 +13,7 @@
     "@sentry/nextjs": "^6.10.0",
     "axios": "^0.21.1",
     "dayjs": "^1.10.5",
-    "next": "^12.0.0",
+    "next": "^12.1.0",
     "nextjs-progressbar": "0.0.13",
     "pluralize": "^8.0.0",
     "postcss": "^8.1.0",
